@@ -73,4 +73,3 @@ You are working on a feature in the feature-branch, while your colleague has mad
 
 ---
 
-This file now provides a clear overview of the task, with well-formatted commands and explanations. Would you like any more edits or additions?
